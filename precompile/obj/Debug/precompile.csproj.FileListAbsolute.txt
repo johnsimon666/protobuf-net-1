@@ -1,0 +1,14 @@
+C:\Git\protobuf-net\precompile\bin\Debug\Licence.txt
+C:\Git\protobuf-net\precompile\bin\Debug\IKVM-LICENSE
+C:\Git\protobuf-net\precompile\bin\Debug\precompile.exe.config
+C:\Git\protobuf-net\precompile\bin\Debug\precompile.XML
+C:\Git\protobuf-net\precompile\bin\Debug\precompile.exe
+C:\Git\protobuf-net\precompile\bin\Debug\precompile.pdb
+C:\Git\protobuf-net\precompile\bin\Debug\IKVM.Reflection.dll
+C:\Git\protobuf-net\precompile\bin\Debug\protobuf-net.dll
+C:\Git\protobuf-net\precompile\bin\Debug\protobuf-net.pdb
+C:\Git\protobuf-net\precompile\bin\Debug\protobuf-net.xml
+C:\Git\protobuf-net\precompile\obj\Debug\precompile.csprojResolveAssemblyReference.cache
+C:\Git\protobuf-net\precompile\obj\Debug\precompile.csproj.CoreCompileInputs.cache
+C:\Git\protobuf-net\precompile\obj\Debug\precompile.exe
+C:\Git\protobuf-net\precompile\obj\Debug\precompile.pdb
